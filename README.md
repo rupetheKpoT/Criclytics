@@ -1,2 +1,2 @@
 # Criclytics
-This is for Analyzing Cricket Data and Selecting the best team of the world for a T20 Match with Aliens
+In this project this will display a complete analysis of the test world championship
